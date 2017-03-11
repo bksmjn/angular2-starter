@@ -1,0 +1,11 @@
+{
+  "globalDependencies": {
+    "core-js": "registry:dt/core-js#0.9.7+20161130133742",
+    "foundation-sites": "registry:global/foundation-sites#6.2.3+20160808064836",
+    "jquery": "registry:dt/jquery#1.10.0+20161119044246",
+    "lodash": "registry:dt/lodash#4.14.0+20160830145422",
+    "moment": "registry:dt/moment#2.11.1+20161010105546",
+    "node": "registry:dt/node#7.0.0+20170124134802"
+  },
+  "dependencies": {}
+}

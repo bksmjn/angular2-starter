@@ -1,0 +1,12 @@
+@charset 'utf-8';
+
+@import 'settings';
+@import 'foundation';
+
+// Include everything
+@include foundation-everything(true);
+// Or include mixings one by one (not done here yet)
+
+
+@import "common";
+
